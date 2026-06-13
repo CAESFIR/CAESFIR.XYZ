@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "caesfir.xyz",
+    "description": "",
+    "home_page_url": "https://caesfir.xyz",
+    "feed_url": "https://caesfir.xyz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Feral"
+    },
+    "items": [
+    ]
+}
